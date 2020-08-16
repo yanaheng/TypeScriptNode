@@ -1,0 +1,16 @@
+{
+  "name": "TypeScriptNode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node out/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/request": "^2.48.5",
+    "request": "^2.88.2"
+  }
+}
